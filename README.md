@@ -3,7 +3,7 @@
 ### **Compare versions**
 1. Build as maven project `mvn clean compile`
 2. Run as java application (`SojernTakeHome` is the **main** class)
-3. Follow to instructions in the prompt to compare versions
+3. Follow instructions in the prompt to compare versions
 
 ### **Application - 'math api'**
 1. Build as maven project `mvn clean compile`
